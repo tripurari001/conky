@@ -5,6 +5,6 @@ add this script in startup program
 
 
 ```
-conky --config=/home/tripurari/.myconkyfinal/conkyrc
+conky --config=/home/$your_conkyrc_location
 
 ```
